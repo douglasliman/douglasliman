@@ -1,4 +1,4 @@
-# 💫Oiii eu sou o Douglas Lima, dev front-end ou umcriador de telinhas !
+# 💫Oiii eu sou o Douglas Lima, dev front-end ou um criador de telinhas !
 
 
 
