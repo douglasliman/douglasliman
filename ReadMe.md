@@ -1,4 +1,4 @@
-# 💫Oiii eu sou o Douglas Queiroz, dev front-end ou um criador de telinhas !
+# 💫Oi eu sou o Douglas Queiroz, dev front-end ou um criador de telinhas !
 
 
 
