@@ -1,20 +1,40 @@
-# 💫Oi eu sou o Douglas Queiroz, dev fullStack faço uns sistemas!
+
+# Olá Mundo 👋
+
+
+Eu sou Douglas👋... um profissional em transição de carreira para desenvolvimento de aplicativos web de ponta e soluções digitais nos último ano venho estudando e atuando como desenvolvedor freelancer
+
+Ficaria encantado em me conectar e explorar oportunidades potenciais se você estiver procurando por um desenvolvedor de software apaixonado e proficiente que possa fornecer soluções robustas e eficientes. Vamos criar software excepcional juntos!
+
+## — Habilidades 🛠️
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" alt="Spring Boot logo" />
+  <img src="https://img.shields.io/badge/Java_8%2C_11%2C_17-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java logo" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=for-the-badge" alt="Hibernate logo" />
+  <img src="https://img.shields.io/badge/JPA-00AEEF?logo=jpa&logoColor=white&style=for-the-badge" alt="JPA logo" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript logo" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" alt="Angular logo" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React logo" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap logo" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker logo" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript logo" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="NPM logo" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="SASS logo" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git logo" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub logo" />
+  <img src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black&style=for-the-badge" alt="Babel logo" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 logo" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 logo" />
+</div>
 
 
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=douglasliman&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false">
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasliman&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
-## 🌐 Socials:
+## — Sobre mim 😎
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/douglas.liman/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-queiroz/) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
- <p></p>
+- 🌱 Atualmente estou aprofundando meus conhecimentos em **JAVA, AWS, .NET e Angular**
+- 👨‍💻 Sempre aprendendo algo novo
+- 💼 Da uma olhada no meu LinkedIn [LinkedIn](https://www.linkedin.com/in/douglas-queiroz/)
 
 
-  ![snake_gif](https://github.com/douglasliman/douglasliman/blob/output/github-contribution-grid-snake.svg)             
