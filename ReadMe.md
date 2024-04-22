@@ -2,6 +2,8 @@
 # Olá Mundo 👋
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=douglasliman&label=Profile%20views&color=0e75b6&style=flat" alt="douglasQueiroz" /> </p>
+
 Eu sou Douglas👋... um profissional em transição de carreira para desenvolvimento de aplicativos web de ponta e soluções digitais nos último ano venho estudando e atuando como desenvolvedor freelancer
 
 Ficaria encantado em me conectar e explorar oportunidades potenciais se você estiver procurando por um desenvolvedor de software apaixonado e proficiente que possa fornecer soluções robustas e eficientes. Vamos criar software excepcional juntos!
