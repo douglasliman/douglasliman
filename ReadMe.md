@@ -35,7 +35,7 @@ Ficaria encantado em me conectar e explorar oportunidades potenciais se você es
 
 ## — Sobre mim 😎
 
-- 🌱 Atualmente estou aprofundando meus conhecimentos em **JAVA, AWS, Golang e Angular**
+- 🌱 Atualmente estou aprofundando meus conhecimentos em **JAVA, AWS, e React / Angular**
 - 👨‍💻 Sempre aprendendo algo novo
 - 💼 Da uma olhada no meu LinkedIn [LinkedIn](https://www.linkedin.com/in/douglas-queiroz/)
 
