@@ -32,8 +32,15 @@ Eu sou Douglas👋...
 
 ## — Sobre mim 😎
 
-- 🌱 Atualmente estou aprofundando meus conhecimentos em **JAVA, AWS, e React / Angular**
-- 👨‍💻 Sempre aprendendo algo novo
+- 🌱 Atualmente estou aprofundando meus conhecimentos em **JAVA, Azure, / Angular**.
+- 🧑🏾‍💻 Sempre aprendendo algo novo.
+- 🧑🏾‍💻 Estou sempre me aprofundando em Java e em especial em seu Framework Spring Boot.
+- 🧑🏾‍💻 Estou estudando JavaScript e seus Frameworks, principalmente Angular.
+- 🐋 Me preparando para certificações em Azure e em conhecer mais sobre ela.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas.
+- 🎓 Cursando uma pós-graduação, Desenvolvimento Full Stack Angular / Java / node - Descomplica Faculdade Digital.
+- 🧑🏾‍💻 Amo ir em eventos de tech e seus brindes, curto bater um papo com outrod dev's explorar outras stacks que não conheço conversando com quem sabe.
+- 👨‍🏫 Amo dividir conhecimento, faço volutariado em uma Ed-tech.
 - 💼 Da uma olhada no meu LinkedIn [LinkedIn](https://www.linkedin.com/in/douglas-queiroz/)
 
 
