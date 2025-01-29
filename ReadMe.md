@@ -39,7 +39,6 @@ Eu sou Douglas👋...
 - 🐋 Me preparando para certificações em Azure e em conhecer mais sobre ela.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 🎓 Cursando uma pós-graduação, Desenvolvimento Full Stack Angular / Java / node - Descomplica Faculdade Digital.
-- 🧑🏾‍💻 Amo ir em eventos de tech e seus brindes, curto bater um papo com outrod dev's explorar outras stacks que não conheço conversando com quem sabe.
 - 👨‍🏫 Amo dividir conhecimento, faço volutariado em uma Ed-tech.
 - 💼 Da uma olhada no meu LinkedIn [LinkedIn](https://www.linkedin.com/in/douglas-queiroz/)
 
